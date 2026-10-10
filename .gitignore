@@ -1,0 +1,11 @@
+# Datenblätter (liegen auch lokal in Hardware/Datasheets und Research)
+Datasheets/
+*.pdf
+!Research/Model/Calculation/Claude_Latex_Template.pdf
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~

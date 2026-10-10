@@ -1,0 +1,21 @@
+# KiCad: automatische Backups
+*-backups/
+*.zip
+_autosave-*
+*-bak
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-lock
+~*.lck
+fp-info-cache
+
+# KiCad: lokale Benutzereinstellungen (nicht für das Öffnen nötig)
+*.kicad_prl
+
+# KiCad: generierte Ausgaben
+*.net
+*.xml
+*.csv
+gerber/
+fabrication/
