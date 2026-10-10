@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MotionGlo_Sym")(type "KiCad")(uri "${KIPRJMOD}/libs/MotionGlo_Sym.kicad_sym")(options "")(descr "MotionGlo symbols (projektlokal)"))
+)
